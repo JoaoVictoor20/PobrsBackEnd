@@ -3,7 +3,6 @@ const ClienteController = require ('../controllers/clienteController.js');
 const PedidoController = require ('../controllers/pedidoController');
 const ProdutoController = require('../controllers/produtoController');
 
-const Cliente = require('../models/cliente.js');
 const router = express.Router();
 
 //Cliente
